@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151212173315.1"><vh>@settings</vh>
+<v t="leo.20151212173315.1" a="E"><vh>@settings</vh>
 <v t="leo.20151212173315.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -174,6 +174,9 @@
 <v t="leo.20170109134110.1"><vh>@edit 20161219.md</vh></v>
 <v t="leo.20161226134840.1"><vh>@edit 20161226.md</vh></v>
 <v t="leo.20170109133434.1"><vh>@edit 20170109.md</vh></v>
+<v t="leo.20180606090914.1"><vh>@edit 20180528.md</vh></v>
+<v t="leo.20180606091025.1"><vh>@edit 20180529.md</vh></v>
+<v t="leo.20180606091039.1"><vh>@edit 20180530.md</vh></v>
 </v>
 </v>
 </v>
@@ -185,15 +188,15 @@
 <v t="leo.20161212143032.1"><vh>@button https server</vh></v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
 <v t="yen.20161022151749.1"><vh>產生 .key 與 .crt</vh></v>
-<v t="yen.20161105200127.1"><vh>選課人員名單</vh>
+<v t="yen.20161105200127.1" a="E"><vh>選課人員名單</vh>
 <v t="yen.20161105200140.1"><vh>@edit a.txt</vh></v>
 <v t="yen.20161105200241.1"><vh>@edit b.txt</vh></v>
 </v>
-<v t="yen.20161105200145.1"><vh>分組名單</vh>
+<v t="yen.20161105200145.1" a="E"><vh>分組名單</vh>
 <v t="yen.20161105200154.1"><vh>@edit agroup.txt</vh></v>
 <v t="yen.20161105200234.1"><vh>@edit bgroup.txt</vh></v>
 </v>
-<v t="leo.20161121135318.2"><vh>Recovered Nodes</vh>
+<v t="leo.20161121135318.2" a="E"><vh>Recovered Nodes</vh>
 <v t="leo.20161121135318.3"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
 <v t="leo.20161121135318.4"><vh>old:封面投影片內容</vh></v>
 <v t="leo.20161121135318.5"><vh>new:封面投影片內容</vh></v>
